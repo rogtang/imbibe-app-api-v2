@@ -1,3 +1,6 @@
+
+ "migrate:production": "env SSL=true DATABASE_URL=$(heroku config:get DATABASE_URL) npm run migrate",
+ 
 to do:
 deploy server
 update server address in react
