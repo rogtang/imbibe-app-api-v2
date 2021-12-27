@@ -1,3 +1,11 @@
+to do:
+deploy server
+update server address in react
+re-deploy front end with new server address
+deploy database
+
+
+
 test users:
 
 ('demo@demo.com', 'password123'),
